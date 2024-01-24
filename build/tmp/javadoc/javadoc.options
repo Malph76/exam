@@ -1,7 +1,0 @@
--classpath 'C:\\Users\\d.nikulin\\IdeaProjects\\gradleproject\\build\\classes\\java\\main;C:\\Users\\d.nikulin\\IdeaProjects\\gradleproject\\build\\resources\\main'
--d 'C:\\Users\\d.nikulin\\IdeaProjects\\gradleproject\\build\\docs\\javadoc'
--doctitle 'gradleproject 1.0-SNAPSHOT API'
--notimestamp 
--quiet 
--windowtitle 'gradleproject 1.0-SNAPSHOT API'
-'C:\\Users\\d.nikulin\\IdeaProjects\\gradleproject\\src\\main\\java\\org\\example\\Main.java'
